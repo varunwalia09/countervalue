@@ -1,0 +1,93 @@
+* {
+  color: purple;
+}
+.center{
+  text-align: center;
+}
+/* .center{
+  text-align: right;
+  font-size: large;
+  font-style: bold;
+  color: rgb(209, 222, 91);
+  background-color: rgba(128, 255, 0, 0.371);
+  
+}
+
+.center li{
+  display: inline-block;
+  padding: 10px 5px;
+  
+}
+.n-bar-link{
+  text-decoration: none;
+  color: black;
+}
+.n-bar-link:hover{
+  color: rgb(72, 143, 242);
+  background-color: black;
+}
+
+#about-link{
+  color: black;
+  font-size: large;
+  font-style: bold;
+  
+}
+.center .active{
+  color:chartreuse;
+  background-color: black;
+}
+.center-dot{
+  text-align: center;
+  font-size: large;
+  font-style: bold;
+  color: black;
+}
+.n-bar-link-dot{
+  text-decoration: none;
+  color: black;
+  background-color: rgba(178, 102, 102, 0.53);
+}
+
+.center-dot li{
+  display: inline-block;
+  padding: 10px 5px;
+}
+
+.center-dot :hover{
+  color:rgb(233, 44, 233);
+  background-color: black;
+
+} */ 
+
+
+/* body {
+  background-image: url('./components/images/Hacking.jpg.jpg');
+} */
+/* .bg{
+  background-color: rgba(178, 102, 102, 0.53);
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+body::-webkit-scrollbar{
+  background-color: transparent;
+}
+
+body::-webkit-scrollbar-thumb{
+  background:linear-gradient(red,blue,green,orange,rgb(81, 3, 80));
+  border-radius: 20px;
+}
+
+
+
